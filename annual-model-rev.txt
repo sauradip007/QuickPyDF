@@ -1,0 +1,8 @@
+As per the MRM policy requirement, model should be reviewed annually to
+ensure the model usage for the next year. This year model was due for
+revalidation, hence re-validation is performed and submitted at place of Annual
+Model Review (AMR). An AMR will be submitted for the model in the next annual
+validation exercise to be held in October this year on the latest available
+performance results during the validation.
+The performance checks would include metrics like PSI, KS, ROB, MAPE etc. and
+all MRM required metrics for AMR.
